@@ -1,5 +1,34 @@
 # Rogue Agents: release notes
 
+## The third release (November 2026): first fixes from play
+
+Everything the second release had, with what its first long play-through found wrong put right. **It cannot join
+games of the second release, nor the other way round** (the two say so): everyone playing together needs this one.
+
+- **Fixed: Esc did not hold the pause menu open.** On a keyboard the menu opened and shut on the same press.
+- **The alarm is no longer the loudest thing in the game.** A fault made every looping sound play at full whatever
+  its volume said. The alarm now sits a little above the music and background of a fight, and well under the guns.
+- **Guns are a touch louder beside everything else:** a sharper crack, and the music and background step back for
+  a moment under your own fire.
+- **Water is in the way.** Nobody wades any more: the Jungle's stream is crossed by its two bridges and the stones
+  of its ford, and the Cave's island by its boardwalk. Bullets and sight still cross water, which now moves, and
+  a round that lands in it throws up a splash.
+- **The first difficulty is kinder.** A round to the head puts down any guard, the heavy included. Fewer guards
+  are on duty, and those who would stand nearest to where you arrive are the first given the day off. The alarm
+  brings two, later, where it brought four, sooner.
+- **A hit staggers a guard for half as long again,** on every difficulty; and a guard a long way off runs straight
+  at you much less often.
+- **Being hit pushes you** a little way from where the shot came (forward, if you are shot in the back), with a
+  grunt; team-mates hear it from where you stand. A blast pushes further. Never over an edge.
+- **Health and armour are two curved gauges** in the lower corners of the view, a segment for each point: health
+  from amber to red as it goes, armour in teal, what was just lost shown white for a moment. A wedge on a ring
+  outside them flares towards whoever hit you.
+- **Fixed: a gun of the newer kinds lying on the ground looked like the plain kind** to anyone who had joined
+  somebody else's game.
+
+Getting it going, playing with friends, the known limits and what nobody has yet tried are as for the second
+release, below.
+
 ## The second release (November 2026)
 
 The first release that anyone can download. One to four agents fight through a run of four stages, chosen along
