@@ -1,0 +1,16 @@
+Rogue Agents
+Copyright (c) 2026 the Rogue Agents authors. All rights reserved.
+
+You are welcome to download the game, to play it, alone or with friends, and
+to pass the downloads on to others exactly as you got them. Please do not sell
+it, alter it, or pass it off as your own.
+
+The game is offered as it is, with no promise that it is free of faults or fit
+for any purpose. It is an early version: see the release notes for what has
+and has not been tried.
+
+All of its names, characters, levels, music and art are original. It is not
+connected with, or endorsed by, the makers or owners of any other game.
+
+The work of others that travels with it, and their licences, are listed in
+THIRD-PARTY-NOTICES.txt.
