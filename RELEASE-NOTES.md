@@ -1,5 +1,16 @@
 # Rogue Agents: release notes
 
+## The fourth release (November 2026): one crescent, four new names
+
+- **Health and armour are one crescent across the foot of the view,** not a pair: thick at its middle and drawn
+  out to a point at either end; health is its teeth, cream going to red, and armour a row of steel plates riding
+  outside them. (The pair, health on one side and armour on
+  the other, was too like one classic's gauges; an independent review of the game's originality said so.)
+- **Four guns have new names,** for the same reason (their old ones turned out to be other games' guns, or a real
+  one): the pistol is the Wren No. 3, the shotgun the Lurcher 12, the automatic shotgun the Airedale, and the heavy
+  submachine gun the Corncrake. Nothing about how they shoot has changed.
+- It plays with the third release: nothing about how games talk to each other has changed.
+
 ## The third release (November 2026): first fixes from play
 
 Everything the second release had, with what its first long play-through found wrong put right. **It cannot join
@@ -168,8 +179,8 @@ with them between the two.
 - **Three kinds of objective:** find the key and open the door; destroy the containers; talk to someone (and
   search them if a stray shot got there first). Then reach the way out.
 - **Three difficulties:** two, three or five objectives a stage, with more guards and fewer supplies.
-- **Four guns:** the Wren P9 pistol (silenced; it can always be reloaded), the Kestrel submachine gun, the Harrier
-  rifle and the Bulldog 12 shotgun. Guards drop what they carried.
+- **Four guns:** the Wren No. 3 pistol (silenced; it can always be reloaded), the Kestrel submachine gun, the Harrier
+  rifle and the Lurcher 12 shotgun. Guards drop what they carried.
 - **Eight powerups,** two of which cost something. One is chosen after the first stage.
 - **Guards** that hear and see, raise the alarm, call for more, take cover, and flinch by where they are hit; and a
   heavier kind.
