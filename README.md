@@ -1,9 +1,10 @@
 # Rogue Agents
 
-A first-person shooter for one to four players, with the look and feel of the spy shooters of the late 1990s:
-low-poly rooms, chunky guns, and missions made of things to do rather than only people to shoot. Every run is put
-together afresh: four stages chosen along the way from fourteen, each with different rooms, objectives, guards and
-supplies every time. Play it alone, with friends as a team, or against each other.
+A first-person shooter for one to four players, with the feel of the spy shooters of the late 1990s and the look
+of the consoles that came just after: missions made of things to do rather than only people to shoot, guards who
+work together and say so, and a cast of odd agents to play. Every run is put together afresh: four stages chosen
+along the way from fourteen, each with different rooms, objectives, guards and supplies every time. Play it alone,
+with friends as a team, or against each other. (The older, blockier look is still there: Settings, Picture.)
 
 It is free, it is an early version, and everything in it (names, places, pictures, sounds, music) is its own.
 
@@ -25,9 +26,10 @@ anything is wrong with them.
 
 ## Play
 
-The game opens on its menu. **Play alone** starts a run. The keys are shown as each mission begins, and every one
-can be changed under Settings, Controls: W A S D to move, the mouse to look, left button to fire, right to aim,
-R to reload, E to use, Tab for the objectives, Esc for the menu. A controller works too.
+The game opens on its menu. **Play alone** starts a run, and **Agents** is where you choose who to play. The keys
+are shown as each mission begins, and every one can be changed under Settings, Controls: W A S D to move, the mouse
+to look, left button to fire, right to aim, R to reload, E to use, Q for your agent's own trick, Z to mark a spot
+for your team, 5 and G for mines and grenades, Tab for the objectives, Esc for the menu. A controller works too.
 
 **With friends in the same house:** one of you chooses Play with friends, Host on this network. Their pause menu
 (Esc) shows the address the others type under Join on this network. The host's computer may ask whether to let the
@@ -64,7 +66,9 @@ Anything else that seems wrong, or simply not fun, is worth an issue too.
 
 This is an early version. The whole game is there to be played from the menu to the end of a run, but:
 
-- every picture and sound is a stand-in made by a program, waiting for an artist: boxes for tents, drums for radios;
+- every picture, figure and sound is a stand-in made by a program, waiting for an artist;
+- three of the fourteen stages have been rebuilt about four times the size (the River Station, the Command Bunker,
+  the Quay and the Dry Dock); the other eleven are still their first, smaller selves;
 - it has been played far more by its own automatic players than by people, so how hard it is and how the guns
   feel are first guesses;
 - it has not yet been tried on a Mac, on a slow computer, or between two houses.
